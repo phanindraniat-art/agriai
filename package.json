@@ -1,17 +1,17 @@
 {
   "name": "agrismart-ai",
   "version": "1.0.0",
-  "description": "AgriSmart AI - Smart Farming with AI. Complete fullstack web application with SQLite backend.",
+  "description": "AgriSmart AI - Smart Farming Platform",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "echo 'No build required for static frontend and serverless api'"
   },
   "keywords": [
     "agriculture",
     "ai",
     "crop-monitoring",
-    "smart-farming",
-    "disease-detection"
+    "smart-farming"
   ],
   "author": "AgriSmart AI Team",
   "license": "MIT"
